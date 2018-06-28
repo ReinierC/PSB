@@ -1,0 +1,21 @@
+email: popschool.borger@protonmail.com
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+fullname: editor
+title: null
+state: enabled
+hashed_password: $2y$10$f1OOxzQdQiCLHSTLmdCGX.bVqsJmi.VgVh45EaBtoveI8CyiEYCOm
+language: en
+login_attempts: {  }
+twofa_secret: IVMEBFKB67WTRZ3TAOKRHNWHH4EYETW2
+twofa_enabled: false
+avatar:
+  user/accounts/avatars/VRvpIfQ1muL4Kwa.png:
+    name: VRvpIfQ1muL4Kwa.png
+    type: image/png
+    size: 21089
+    path: user/accounts/avatars/VRvpIfQ1muL4Kwa.png

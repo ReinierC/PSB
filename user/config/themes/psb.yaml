@@ -1,0 +1,23 @@
+enabled: true
+favicon:
+  user/themes/psb/images/favicon.png:
+    name: favicon.png
+    type: image/png
+    size: 1177
+    path: user/themes/psb/images/favicon.png
+logo:
+  user/themes/psb/images/popschool-logo.png:
+    name: popschool-logo.png
+    type: image/png
+    size: 1824
+    path: user/themes/psb/images/popschool-logo.png
+left_footer: "&copy; 2018 Copyright Reinier Caron\r\n\r\nCodeGorilla since 2017\r\n"
+right_footer: 'DESIGNED FOR POPSCHOOL BORGER'
+blog_thumbnail_width: 600
+blog_thumbnail_height: 450
+default_background_image:
+  user/themes/psb/images/freepsdanner.jpg:
+    name: freepsdanner.jpg
+    type: image/jpeg
+    size: 53599
+    path: user/themes/psb/images/freepsdanner.jpg

@@ -1,0 +1,20 @@
+title: 'Popschool Borger'
+default_lang: nl
+author:
+  name: 'Reinier Caron'
+  email: popschoolborger@gmail.com
+taxonomies:
+  - muziek
+  - muziekles
+  - popschoolborger
+  - popschool
+  - muziekschool
+metadata:
+  description: 'Popschool Borger muziekles voor iedereen'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

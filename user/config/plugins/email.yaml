@@ -1,0 +1,20 @@
+enabled: true
+from: popschool.borger@gmail.com
+from_name: 'website popschool borger'
+to: popschool.borger@gmail.com
+to_name: 'Popschool Borger'
+mailer:
+  engine: smtp
+  smtp:
+    server: mail.popschoolborger.nl
+    port: 25
+    encryption: none
+    user: info@popschoolborger.nl
+    password: PSBorger2018info
+  sendmail:
+    bin: '/usr/sbin/sendmail -bs'
+content_type: text/html
+debug: false
+bcc: reinier.caron@gmail.com
+cc: popschool.borger@gmail.com
+cc_name: psb

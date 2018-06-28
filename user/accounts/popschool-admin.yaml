@@ -1,0 +1,21 @@
+email: popschool.borger@protonmail.com
+title: Administrator
+fullname: 'Popschool Admin'
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$T3HXcmTs3s7wZqs8v4YHpey7u/kL1d8E30SPZTridzQOnFPV4ncTy
+authorized: true
+twofa_secret: 2BQ5ZVNHNGS6BB767YCQBL76IIIYPDAS
+language: en
+twofa_enabled: false
+avatar:
+  user/accounts/avatars/HnycqwtoEmX6MeZ.png:
+    name: HnycqwtoEmX6MeZ.png
+    type: image/png
+    size: 92617
+    path: user/accounts/avatars/HnycqwtoEmX6MeZ.png

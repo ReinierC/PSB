@@ -1,0 +1,11 @@
+email: reinier.caron@protonmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Reinier Caron'
+title: Creator
+state: enabled
+hashed_password: $2y$10$G4xkAu1viGae89Iwewy2/uY8B/hmQIQbyCnP13JbMtQKG09S3Pwda

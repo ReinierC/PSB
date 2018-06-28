@@ -1,0 +1,30 @@
+state: enabled
+email: reinier.caron@protonmail.com
+fullname: 'Reinier Caron'
+language: en
+twofa_enabled: false
+twofa_secret: 37WFIHD36AUI2FE7MQ2HM7XCBJS3FU5J
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+    cache: 'true'
+    configuration: 'true'
+    configuration_system: 'true'
+    configuration_site: 'true'
+    configuration_media: 'true'
+    configuration_info: 'true'
+    settings: 'true'
+    pages: 'true'
+    maintenance: 'true'
+    statistics: 'true'
+    plugins: 'true'
+    themes: 'true'
+    users: 'true'
+hashed_password: $2y$10$G8Dy0E9lPio0vv9y6mndKOaPnAND/9TjpanS8fT4QbeHBFo5TIwFK
+avatar:
+  user/accounts/avatars/GQyaq8p0djJ27TK.svg:
+    name: GQyaq8p0djJ27TK.svg
+    type: image/svg+xml
+    size: 4694
+    path: user/accounts/avatars/GQyaq8p0djJ27TK.svg

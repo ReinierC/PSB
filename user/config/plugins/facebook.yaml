@@ -1,0 +1,21 @@
+enabled: false
+built_in_css: true
+use_unitegallery_plugin: true
+facebook_page_settings:
+  page_id: '357306971066428'
+  date_format: 'd.m.Y \k\l\o H:i'
+  count: 7
+  section_title: 'Nieuwe berichten'
+  page_name: 'https://www.facebook.com/acquimebas'
+facebook_event_settings:
+  show_cover: true
+  count: 7
+  section_title: 'Nieuwe evenementen'
+  page_name: 'https://www.facebook.com/pg/acquimebas/events'
+facebook_album_settings:
+  use_unitegallery: true
+  album_name: 'https://www.facebook.com/pg/acquimebas/photos/?tab=album&album_id=404365473027244'
+  unitegallery_theme: default
+facebook_common_settings:
+  application_id: '2045060849038952'
+  application_secret: db2ca99a38bb22f624d29b33d19ac926
